@@ -1,12 +1,8 @@
-
 # Syntax highlighting
+markdown:            redcarpet
+highlighter:         pygments
 
-highlighter:         rouge
-
-permalink:           :title
-
-
-
+permalink:           /:title
 
 # Setup
 timezone:            Europe/London # eg. Asia/Kathmandu
@@ -17,11 +13,11 @@ tagline:             'A podcast for knife makers'
 description:         'A podcast for knife makers'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/knifetalk/'
-baseurl_posts_img:   '/knifetalk/assets/images/posts/'
-baseurl_featured_img: '/knifetalk/assets/images/hero/'
-baseurl_featured_thumbnail: '/knifetalk/assets/images/thumbnail/'
-baseurl_javascripts: '/knifetalk/assets/javascripts/'
+baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
