@@ -14,7 +14,7 @@ tagline:             'A podcast for knife makers'
 description:         'A podcast for knife makers'
 url:                 site url
 rss:                 rss feed url
-baseurl:             'knifetalk/'
+baseurl:             '/knifetalk/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
