@@ -264,7 +264,7 @@ ol {
 
 ul li,
 ol li {
-  line-height: 1.5rem;
+  line-height: 1.0rem;
 }
 
 ul ul,
@@ -1802,6 +1802,7 @@ body {
   letter-spacing: 0.04rem;
   color: #777777;
   text-transform: none;
+  margin-top: 20px;
 }
 
 @media (max-width: 767px) {
@@ -1822,6 +1823,8 @@ body {
   margin: 0;
   padding: 0;
 }
+
+
 
 .postMeta li {
   float: left;

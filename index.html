@@ -7,13 +7,18 @@ title: A podcast for knife makers
   <div class="section-title">
     <div class="container">
       <h1 class="textLogo textLogo--frontpage">
-        {{ site.name }}
+        {{ site.name}}
       </h1>
+
+
       <div class="postMeta-wrapper postMeta-wrapper--frontpage">
         <ul class="postMeta">
+
           <li class="postMeta-tagline">
-            A podcast for knife makers
+
+            Hosted by Craig from <a href="http://www.chopknives.com" target="_blank">Chop Knives</a> featuring a special guest each episode.
           </li>
+        
         </ul>
       </div>
     </div>
@@ -28,17 +33,17 @@ title: A podcast for knife makers
             <div class="postArticle-wrapper">
               <article class="postArticle postArticle--short">
                 {% if post.image.feature %}
-                  <a href="/knifetalk/{{ post.url }}">
+                  <a href="{{ site.baseurl}}{{ post.url }}">
                     <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
                     </div>
                   </a>
                 {% else %}
-                <a href="/knifetalk/{{ post.url }}">
+                <a href="{{ site.baseurl}}{{ post.url }}">
                   <div class="postArticle-image" style="background-image:url('{{site.baseurl}}assets/images/logo-black.svg')">
                   </div>
                 </a>
                 {% endif %}
-                <a class="postArticle-title" href="/knifetalk/{{ post.url }}">{{ post.title }}</a>
+                <a class="postArticle-title" href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a>
               </article>
               <div class="block-postMeta">{{ post.date | date_to_string }}</div>
             </div>
