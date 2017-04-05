@@ -14,13 +14,10 @@ bgGradientOpacity: lighter
 syntaxHighlighter: no
 ---
 
-Craig speaks with Walter Sorells about his life as a professional knife maker.
+Craig speaks with Walter Sorells about his life as a professional knife maker, his widly succesful Youtube channel and his traditional techniques.
 
 <blockquote class="largeQuote">“All our dreams can come true, if we have the courage to pursue them.” - Walt Disney</blockquote>
 
 
-
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
 
 
