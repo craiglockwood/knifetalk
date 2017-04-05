@@ -4,7 +4,7 @@
 highlighter:         rouge
 
 permalink:           :title
-relative_permalinks: true
+
 
 
 
