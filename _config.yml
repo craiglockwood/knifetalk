@@ -1,12 +1,12 @@
 
 # Syntax highlighting
 
-highlighter:         pygments
+highlighter:         rouge
 
 
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
+timezone:            Europe/London # eg. Asia/Kathmandu
 locale:              en_uk # eg. en_us
 name:				         Knife Talk
 title:               Knife Talk
@@ -14,7 +14,7 @@ tagline:             'A podcast for knife makers'
 description:         'A podcast for knife makers'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/'
+baseurl:             'knifetalk/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
