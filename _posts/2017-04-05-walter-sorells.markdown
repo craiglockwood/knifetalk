@@ -14,6 +14,8 @@ bgGradientOpacity: lighter
 syntaxHighlighter: no
 ---
 
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/65396?style=medium-light' width='100%'></iframe>
+
 Craig speaks with Walter Sorells about his life as a professional knife maker, his widly succesful Youtube channel and his traditional techniques.
 
 <blockquote class="largeQuote">“A choice quote taken from the podcast.” - Walter Sorells</blockquote>
