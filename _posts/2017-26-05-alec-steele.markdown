@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "A chat with Alec Steele"
+date:   2017-26-05 01:00:00
+last_modified_at:  2014-12-15 01:00:00
+excerpt: "Craig chats with Alec Steele"
+categories: history
+tags:  disney
+image:
+  feature: alec-steele.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: lighter
+syntaxHighlighter: no
+---
+
+
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/65791?style=medium-light' width='100%'></iframe>
+
+Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business. 
+
+
+<blockquote class="largeQuote">“Walter, you don't know Jack!” - Alec Steele</blockquote>
+
+
+
+
