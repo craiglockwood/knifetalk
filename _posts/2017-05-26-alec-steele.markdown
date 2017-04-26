@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A chat with Alec Steele"
-date:   2017-26-05 01:00:00
+date:   2017-05-26 01:00:00
 last_modified_at:  2014-12-15 01:00:00
 excerpt: "Craig chats with Alec Steele"
 categories: history
