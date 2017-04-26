@@ -15,7 +15,7 @@ syntaxHighlighter: no
 ---
 
 
-<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/65791?style=medium-light' width='100%'></iframe>
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/68038?style=medium-light' width='100%'></iframe>
 
 Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business. 
 
