@@ -20,7 +20,7 @@ syntaxHighlighter: no
 Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business. 
 
 
-<blockquote class="largeQuote">“I'm documenting my own learning process"” - Alec Steele</blockquote>
+<blockquote class="largeQuote">“I love that I get to make stuff out of steel” - Alec Steele</blockquote>
 
 
 
