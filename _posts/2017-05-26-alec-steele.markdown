@@ -20,7 +20,7 @@ syntaxHighlighter: no
 Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business. 
 
 
-<blockquote class="largeQuote">“Walter, you don't know Jack!” - Alec Steele</blockquote>
+<blockquote class="largeQuote">“At 16 I left school, I had ” - Alec Steele</blockquote>
 
 
 
