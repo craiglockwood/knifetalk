@@ -17,7 +17,9 @@ syntaxHighlighter: no
 
 <iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/68038?style=medium-light' width='100%'></iframe>
 
-Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business. 
+Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business.
+
+ <a href="http://alecsteeleblacksmith.com">www.alecsteeleblacksmith.com</a> | <a href="https://www.youtube.com/user/alectheblacksmith">Alec on Youtube</a> 
 
 
 <blockquote class="largeQuote">“I love that I get to make stuff out of steel” - Alec Steele</blockquote>
