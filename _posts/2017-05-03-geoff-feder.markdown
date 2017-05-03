@@ -28,7 +28,7 @@ Craig chats with Geoff from Feder Knives about his inspirations, process and the
 
 
 
-<blockquote class="largeQuote">“I want people to kick this knives ass” - Geoff Feder</blockquote>
+<blockquote class="largeQuote">“I want people to kick this knifes ass” - Geoff Feder</blockquote>
 
 
 
