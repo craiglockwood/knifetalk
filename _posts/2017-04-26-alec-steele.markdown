@@ -19,7 +19,7 @@ syntaxHighlighter: no
 
 Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business.
 
- <a href="http://alecsteeleblacksmith.com" target="_blank">www.alecsteeleblacksmith.com</a> | <a href="https://www.youtube.com/user/alectheblacksmith" target="_blank">Alec on Youtube</a> 
+ <a href="http://alecsteeleblacksmith.com" target="_blank">www.alecsteeleblacksmith.com</a> - <a href="https://www.youtube.com/user/alectheblacksmith" target="_blank">Alec on Youtube</a> 
 
 
 <blockquote class="largeQuote">“I love that I get to make stuff out of steel” - Alec Steele</blockquote>
