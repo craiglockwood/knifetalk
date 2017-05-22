@@ -21,7 +21,7 @@ Craig chats with Tomer, the product designer behind Florentine Kitchen Knives ab
 
  <a href="https://florentinekitchenknives.com" target="_blank">www.florentinekitchenknives.com</a> 
 
-<blockquote class="largeQuote">“I ended up putting up a knife making video… maybe I should do more of these” - Tomer Botner</blockquote>
+<blockquote class="largeQuote">“We get to the knife we want to make, and then we make a batch” - Tomer Botner</blockquote>
 
 
 
