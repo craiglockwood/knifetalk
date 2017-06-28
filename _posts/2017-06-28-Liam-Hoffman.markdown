@@ -21,7 +21,7 @@ Craig chats with Liam Hoffman, not only an all-round nice guy but he is also a F
 
  <a href="https://www.hoffmanblacksmithing.com" target="_blank">www.hoffmanblacksmithing.com</a> 
 
-<blockquote class="largeQuote">“My parents for some reason thought it would be good idea to allow a twelve year old to buy a bench grinder with his pocket money” - Aaron Gough</blockquote>
+<blockquote class="largeQuote">“The customer is buying you, not just the product you make” - Liam Hoffman</blockquote>
 
 
 
