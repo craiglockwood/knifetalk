@@ -1,6 +1,6 @@
 # Mickey
 
-Mickey is a minimal one-column, responsive theme for [Jekyll](http://jekyllrb.com).
+Mickey is a minimal one-column, responsive theme for the [Jekyll](http://jekyllrb.com).
 
 It's inspired by [Hyde](http://hyde.getpoole.com), [Medium](http://medium.com), and [Squarespace](http://squarespace.com).
 
