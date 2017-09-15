@@ -2111,9 +2111,7 @@ body {
   text-align: center;
 }
 
-.section--footer a:not(.socialAccount) {
-  background-position: 0 16px;
-}
+
 
 .socialAccountList {
   list-style: none;
