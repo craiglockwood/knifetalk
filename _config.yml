@@ -7,7 +7,7 @@ permalink:           /:title
 # Setup
 timezone:            Europe/London # eg. Asia/Kathmandu
 locale:              en_uk # eg. en_us
-name:				         Knife Talk
+name:                Knife Talk
 title:               Knife Talk
 tagline:             'A podcast for knife makers'
 description:         'A podcast for knife makers'
@@ -22,8 +22,8 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 Craig Lockwood
-  url:            	 http://www.knifetalk.net
+  name:              Craig Lockwood
+  url:               http://www.knifetalk.net
   facebook:          username
   twitter:           username
   google_plus:       username
@@ -36,9 +36,9 @@ fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
 
 # Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
+destination:         ./_site
+exclude:             [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:                9001
 
 defaults:
   -

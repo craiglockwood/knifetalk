@@ -1,0 +1,130 @@
+To run locally and on GitHib pages ahve differet config settings so swap out the text below with the version required. 
+
+
+ALWAYS RUN: rvm use 2.4.2
+
+to test: jekyll serve
+
+
+
+Build locally with this comandd: bundle exec jekyll serve
+
+Build live on github pages with a commit and push
+
+-----------
+
+
+For deployment to Github: _config.yml should be:
+
+
+# Syntax highlighting
+markdown:            redcarpet
+highlighter:         pygments
+
+permalink:           /:title
+
+# Setup
+timezone:            Europe/London # eg. Asia/Kathmandu
+locale:              en_uk # eg. en_us
+name:				         Knife Talk
+title:               Knife Talk
+tagline:             'A podcast for knife makers'
+description:         'A podcast for knife makers'
+url:                 https://www.knifetalk.net/
+rss:                 rss feed url
+baseurl:             '/knifetalk/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus:              disqus_shortname # get it on https://disqus.com/admin/
+
+author:
+  name:           	 Craig Lockwood
+  url:            	 http://www.knifetalk.net
+  facebook:          username
+  twitter:           username
+  google_plus:       username
+  linkedin:          username
+  dribbble:          username
+  pinterest:         username
+  kiva:              username
+
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
+
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
+
+
+
+
+------------
+
+
+For local testing it should be :
+
+# Syntax highlighting
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+permalink:           /:title
+
+
+# Setup
+timezone:            your timezone # eg. Asia/Kathmandu
+locale:              your locale language # eg. en_us
+name:				         site name
+title:               site title
+tagline:             'tagline'
+description:         'description'
+url:                 site url
+rss:                 rss feed url
+baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus:              disqus_shortname # get it on https://disqus.com/admin/
+
+author:
+  name:           	 your name
+  url:            	 your site url
+  facebook:          username
+  twitter:           username
+  google_plus:       username
+  linkedin:          username
+  dribbble:          username
+  pinterest:         username
+  kiva:              username
+
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
+
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
+
+
