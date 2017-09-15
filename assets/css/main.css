@@ -9,6 +9,17 @@ body {
   margin: 0;
 }
 
+.sponsors {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.sponsorlist {
+  padding-top: 30px;
+  text-align: center;
+
+}
+
 article,
 aside,
 details,
