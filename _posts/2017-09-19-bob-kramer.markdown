@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "A chat with Bob Kramer"
-date:   2017-09-19 01:00:00
-last_modified_at:  2014-12-15 01:00:00
+date:   2017-09-18 01:00:00
+last_modified_at:  2017-09-18 01:00:00
 excerpt: "Craig chats with Bob Kramer"
 categories: knifemaking
 tags:  knifemaking kramer
