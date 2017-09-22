@@ -1,7 +1,7 @@
 To run locally and on GitHib pages ahve differet config settings so swap out the text below with the version required. 
 
 
-ALWAYS RUN: rvm use 2.4.2
+jet
 
 to test: jekyll serve
 
