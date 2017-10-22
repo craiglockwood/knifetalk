@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "A chat with Julien Maniglier"
-date:   2017-10-23 00:01:00
-last_modified_at:  2017-10-23 00:01:00
+date:   2017-10-22 00:01:00
+last_modified_at:  2017-10-22 00:01:00
 excerpt: "Craig chats with Julien Maniglier"
 categories: knifemaking
 tags:  knifemaking fordforge
