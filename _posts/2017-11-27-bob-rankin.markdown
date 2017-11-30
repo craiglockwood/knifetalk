@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "A chat with Julien Maniglier"
-date:   2017-10-22 00:01:00
-last_modified_at:  2017-10-22 00:01:00
-excerpt: "Craig chats with Julien Maniglier"
+title:  "A chat with Bob Rankin"
+date:   2017-11-27 00:01:00
+last_modified_at:  2017-11-27 00:01:00
+excerpt: "Craig chats with Bob Rankin"
 categories: knifemaking
 tags:  knifemaking fordforge
 image:
-  feature: julien-manglier.jpg
+  feature: bob-rankin.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: lighter
@@ -15,16 +15,15 @@ syntaxHighlighter: no
 ---
 
 
-<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/92113?style=medium-light' width='100%'></iframe>
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/97263?style=medium-light' width='100%'></iframe>
 
-Craig chats with Julien from <a href="https://www.facebook.com/lescouteauxdelaberchere/">Couteaux de la berchère</a> about his recent appearence in the first Forged In Fire International show.
-
-Julien on Instagram (<a href="https://www.instagram.com/couteaux_de_la_berchere/">@couteaux_de_la_berchere</a>)
+Craig chats with Bob from <a href="https://www.facebook.com/BobRankinCustomKnives/">Bob Rankin Custom Knives</a> about forging his beautiful Damascus steel and his inspirations.
+Bob on Instagram (<a href="https://www.instagram.com/bob_rankin_custom_knives/">@bob_rankin_custom_knives</a>)
 
  
 
 
-<blockquote class="largeQuote">“I was there to learn, not to win. Nobody was there to win...” - Julien Maniglier</blockquote>
+<blockquote class="largeQuote">“Be patient and watch lots of Youtube videos...” - Bob Rankin</blockquote>
 
 
 
