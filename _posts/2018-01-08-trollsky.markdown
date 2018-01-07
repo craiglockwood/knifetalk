@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "A chat with Trollsky"
+date:   2018-01-08 00:01:00
+last_modified_at:  2018-01-08 00:01:00
+excerpt: "Craig chats with Trollsky"
+categories: knifemaking
+tags:  knifemaking fordforge
+image:
+  feature: trollsky.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: lighter
+syntaxHighlighter: no
+---
+
+
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/103686?style=medium-light' width='100%'></iframe>
+
+Craig chats with Trollsky from <a href="https://www.trollsky.com">Trollsky Custom Knives</a> about his recent career as a highly respected knifemaker, his appearance on Forged in Fire and Trollsky answers some listeners questions.
+
+Julien on Instagram (<a href="https://www.instagram.com/trollsky_knives/">@trollsky_knives</a>)
+
+ 
+
+
+<blockquote class="largeQuote">“There is always somebody better than you, it is impossible to be the best...” - Trollsky</blockquote>
+
+
+
+
