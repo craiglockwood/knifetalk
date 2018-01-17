@@ -5,7 +5,7 @@ date:   2018-01-17 00:01:00
 last_modified_at:  2018-01-17 00:01:00
 excerpt: "Craig chats with J Neilson"
 categories: knifemaking
-tags:  knifemaking fordforge
+tags:  knifemaking fordforge neilson
 image:
   feature: neilson.jpg
   topPosition: 0px
