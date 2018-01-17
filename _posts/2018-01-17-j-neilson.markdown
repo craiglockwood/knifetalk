@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "A chat with J Neilson"
+date:   2018-01-17 00:01:00
+last_modified_at:  2018-01-17 00:01:00
+excerpt: "Craig chats with J Neilson"
+categories: knifemaking
+tags:  knifemaking fordforge
+image:
+  feature: neilson.jpg
+  topPosition: 0px
+bgContrast: dark
+bgGradientOpacity: lighter
+syntaxHighlighter: no
+---
+
+
+<iframe frameborder='0' height='94px' scrolling='no' seamless src='https://simplecast.com/e/105987?style=medium-light' width='100%'></iframe>
+
+Craig chats with ABS Mastersmith and judge of Forged in Fire, <a href="http://www.mountainhollow.net">J Neilson</a> about his process. We also get to hear lots of tips from him as well as some behind the scenes stuff from the show.
+
+J Neilson on Instagram (<a href="https://www.instagram.com/jneilsonknives">@jneilsonknives</a>)
+
+ 
+
+
+<blockquote class="largeQuote">“It is a hobby that snowballed out of control...” - J Neilson</blockquote>
+
+
+
+
