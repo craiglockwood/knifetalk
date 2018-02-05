@@ -7,7 +7,7 @@ excerpt: "Craig chats with Olivia Garriga"
 categories: knifemaking
 tags:  knifemaking fordforge livia garriga
 image:
-  feature: kolivia.jpg
+  feature: olivia.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: lighter
