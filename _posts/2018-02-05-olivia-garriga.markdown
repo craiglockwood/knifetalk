@@ -24,7 +24,7 @@ Wild Craft Knives on Instagram (<a href="https://www.instagram.com/wildcraftkniv
  
 
 
-<blockquote class="largeQuote">“Grinding is a bicth sometimes...” - Olivia Garriga</blockquote>
+<blockquote class="largeQuote">“Grinding is a bitch sometimes...” - Olivia Garriga</blockquote>
 
 
 
