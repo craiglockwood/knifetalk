@@ -18,9 +18,10 @@ syntaxHighlighter: no
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/e3410669?color=f5f5f5' width='100%'></iframe>
 
 
-<a href="http://www.federknives.com">Geoff Feder</a> chats with Craig Lockwood from <a href="https://www.chopknives.com/">Chop Knives</a> about his journey into knife making, his plans to make Chop Knives a product company and the launch of his first product, a <a href="https://www.indiegogo.com/projects/handmade-steak-knives-made-affordable">steak knife on Indiegogon</a>.
+<a href="http://www.federknives.com">Geoff Feder</a> chats with Craig Lockwood from <a href="https://www.chopknives.com/">Chop Knives</a> about his journey into knife making, his plans to make Chop Knives a product company and the launch of his first product, a <a href="https://www.indiegogo.com/projects/handmade-steak-knives-made-affordable">steak knife on Indiegogo</a>.
 
 Chop Knives on Instagram: <a href="http://www.instagram.com/chopknives">Chopknives</a>
+
 Feder Knives on Instagram: <a href="http://www.instagram.com/federknives">Federknives</a>
 
 
