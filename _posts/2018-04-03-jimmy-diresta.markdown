@@ -5,7 +5,7 @@ date:   2018-04-03 00:01:00
 last_modified_at:  2018-04-03 00:01:00
 excerpt: "Craig chats with Jimmy DiResta"
 categories: knifemaking
-tags:  knifemaking diresta
+tags:  knifemaking diresta DiResta
 image:
   feature: diresta.jpg
   topPosition: 0px
