@@ -18,7 +18,7 @@ syntaxHighlighter: no
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/b028fc5d?color=f5f5f5' width='100%'></iframe>
 
 
-Jimmy DiResta chats with Craig from about his experiences with knife making, his attitude towards learning and his inspirations in both knifemaking and woodworking.
+Jimmy DiResta chats with Craig from about his experiences with knifemaking, his attitude towards learning and his inspirations in both bladesmithing and woodworking.
 
 Jimmy DiResta on Instagram: <a href="http://www.instagram.com/jimmydiresta">@jimmydiresta</a>
 
