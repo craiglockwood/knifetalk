@@ -15,7 +15,7 @@ syntaxHighlighter: no
 ---
 
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/4756582d?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/bd3c4569?color=f5f5f5' width='100%'></iframe>
 
 
 Craig chats with Grace Horne about her unique and beautiful work which ranges from folding knives and scissors to corsets and lingerie. Grace talks about her influences and plans for the future.
