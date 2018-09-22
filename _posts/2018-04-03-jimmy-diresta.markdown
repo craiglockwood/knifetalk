@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Jimmy DiResta"
 date:   2018-04-03 00:01:00
-last_modified_at:  2018-04-03 00:01:00
-excerpt: "Craig chats with Jimmy DiResta"
-categories: knifemaking
-tags:  knifemaking diresta DiResta
-image:
-  feature: diresta.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Jimmy DiResta chats with Craig from about his experiences with knifemaking, his attitude towards learning and his inspirations in both bladesmithing and woodworking. 
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 
@@ -20,8 +12,7 @@ syntaxHighlighter: no
 
 Jimmy DiResta chats with Craig from about his experiences with knifemaking, his attitude towards learning and his inspirations in both bladesmithing and woodworking.
 
-Jimmy DiResta on Instagram: <a href="http://www.instagram.com/jimmydiresta">@jimmydiresta</a>
-
+Jimmy DiResta on Instagram: <a href="http://www.instagram.com/jimmydiresta">@jimmydiresta</a>  
 Jimmy DiResta on YouTube: <a href="https://www.youtube.com/user/jimmydiresta">Jimmydiresta</a>
 
 

@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Julien Maniglier"
 date:   2017-10-22 00:01:00
-last_modified_at:  2017-10-22 00:01:00
-excerpt: "Craig chats with Julien Maniglier"
-categories: knifemaking
-tags:  knifemaking fordforge
-image:
-  feature: julien-manglier.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Julien from Couteaux de la berchère about his recent appearence in the first Forged In Fire International show.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

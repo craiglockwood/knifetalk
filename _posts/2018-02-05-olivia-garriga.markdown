@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Olivia Garriga"
 date:   2018-02-05 00:01:00
-last_modified_at:  2018-02-05 00:01:00
-excerpt: "Craig chats with Olivia Garriga"
-categories: knifemaking
-tags:  knifemaking fordforge livia garriga
-image:
-  feature: olivia.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Olivia from Wild Craft Knives about her beautiful rustic knives, her other creative endeavours and her future plans.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

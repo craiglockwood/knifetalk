@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Walter Sorrells"
 date:   2017-04-05 01:00:00
-last_modified_at:  2014-12-15 01:00:00
-excerpt: "Craig chats with Walter Sorrells"
-categories: history
-tags:  disney
-image:
-  feature: walter-sorells.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig speaks with Walter Sorrells about his life as a professional knife maker, his widly succesful Youtube channel and his traditional techniques.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Craig Lockwood"
 date:   2018-03-26 00:01:00
-last_modified_at:  2018-03-26 00:01:00
-excerpt: "Geoff Feder chats with Craig Lockwood"
-categories: knifemaking
-tags:  knifemaking lockwood
-image:
-  feature: craig.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Geoff chats with Craig about his journey into knife making, his plans to make Chop Knives a product company and the launch of his first product
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 
@@ -20,8 +12,7 @@ syntaxHighlighter: no
 
 <a href="http://www.federknives.com">Geoff Feder</a> chats with Craig Lockwood from <a href="https://www.chopknives.com/">Chop Knives</a> about his journey into knife making, his plans to make Chop Knives a product company and the launch of his first product, a <a href="https://www.indiegogo.com/projects/handmade-steak-knives-made-affordable">steak knife on Indiegogo</a>.
 
-Chop Knives on Instagram: <a href="http://www.instagram.com/chopknives">Chopknives</a>
-
+Chop Knives on Instagram: <a href="http://www.instagram.com/chopknives">Chopknives</a>  
 Feder Knives on Instagram: <a href="http://www.instagram.com/federknives">Federknives</a>
 
 

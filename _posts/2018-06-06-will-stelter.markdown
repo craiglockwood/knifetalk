@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Will Stelter"
 date:   2018-06-06 00:01:00
-last_modified_at:  2018-06-06 00:01:00
-excerpt: "Craig chats with Will Stelter"
-categories: knifemaking
-tags:  knifemaking diresta Stelter
-image:
-  feature: stelter.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Will Stelter from Stelter Edgeworks about setting up as an LLC, setting up a new shop and his inspirations. 
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

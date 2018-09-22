@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Nicholas Nichols"
 date:   2018-01-04 00:01:00
-last_modified_at:  2018-01-04 00:01:00
-excerpt: "Craig chats with Sandy Young"
-categories: knifemaking
-tags:  knifemaking fordforge
-image:
-  feature: nicholas-nichols.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Nicholas from Nichols Family Forge about his past as a professional chef and is drilled on what makes for a great chef knife.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

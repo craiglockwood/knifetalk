@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Don Nguyen"
 date:   2018-02-19 00:01:00
-last_modified_at:  2018-02-19 00:01:00
-excerpt: "Craig chats with Don Nguyen"
-categories: knifemaking
-tags:  knifemaking donnguyen
-image:
-  feature: donnguyen.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Don from Don Nguyen Knives about his extraordinary kitchen knives, his process, and Craig & Don discuss the differences between forged and stock removal knives.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

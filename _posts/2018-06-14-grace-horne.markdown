@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Grace Horne"
 date:   2018-06-06 00:01:00
-last_modified_at:  2018-06-06 00:01:00
-excerpt: "Craig chats with Grace Horne"
-categories: knifemaking
-tags:  knifemaking diresta Stelter
-image:
-  feature: horne.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Grace Horne about her unique and beautiful work which ranges from folding knives and scissors to corsets and lingerie. Grace talks about her influences and plans for the future. 
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

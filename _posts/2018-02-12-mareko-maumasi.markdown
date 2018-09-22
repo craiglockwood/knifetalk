@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Mareko Maumasi"
 date:   2018-02-12 00:01:00
-last_modified_at:  2018-02-12 00:01:00
-excerpt: "Craig chats with Mareko Maumasi"
-categories: knifemaking
-tags:  knifemaking fordforge Mareko Maumasi
-image:
-  feature: mareko.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Mareko Maumasi from Maumasi Fire Arts about his apprenticeship with Bob Kramer, his beautiful kitchen knives and the fantastically detailed damascus steel he produces.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

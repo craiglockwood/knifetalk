@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Sandy Young"
 date:   2017-12-04 00:01:00
-last_modified_at:  2017-11-27 00:01:00
-excerpt: "Craig chats with Sandy Young"
-categories: knifemaking
-tags:  knifemaking fordforge
-image:
-  feature: sandy-young.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Sandy from Young Knives about his beautiful knives, marketing to his customers and packaging.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

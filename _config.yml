@@ -1,49 +1,30 @@
-# Syntax highlighting
-markdown:            redcarpet
-highlighter:         pygments
+title: Knife Talk
+description: The podcast for knife nerds hosted by Craig, Geoof & Mareko
 
-permalink:           /:title
+url: 
+baseurl: "/"
+paginate_path: "episode/page:num/"
+permalink: episode/:title/
 
-# Setup
-timezone:            Europe/London # eg. Asia/Kathmandu
-locale:              en_uk # eg. en_us
-name:                Knife Talk
-title:               Knife Talk
-tagline:             'A podcast for knife makers'
-description:         'A podcast for knife makers'
-url:                 https://www.knifetalk.net/
-rss:                 rss feed url
-baseurl:             '/knifetalk/'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/hero/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
 
-author:
-  name:              Craig Lockwood
-  url:               http://www.knifetalk.net
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Hosts
+   url: /hosts
+ - title: Sponsorship
+   url: /sponsorship
+ - title: Contact
+   url: /contact
 
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
 
-# Server
-destination:         ./_site
-exclude:             [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:                9001
 
-defaults:
-  -
-    scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "default"
+google_analytics: "UA-97989743-2"
+
+
+
+# Note that when viewing locally (bundle exec jekyll serve) the baseurl should be "". To build for GitHub pages it should be "/".

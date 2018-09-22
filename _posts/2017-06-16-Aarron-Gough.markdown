@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Aaron Gough"
 date:   2017-06-16 01:00:00
-last_modified_at:  2014-12-15 01:00:00
-excerpt: "Craig chats with Aaron Gough"
-categories: history
-tags:  disney
-image:
-  feature: aaron-gough.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Aaron Gough, the extremely talented knifemaker from Gough Custom knives about his process and inspirations.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Jackie Awesome"
 date:   2017-10-02 01:00:00
-last_modified_at:  2017-09-25 01:00:00
-excerpt: "Craig chats with Jackie Awesome"
-categories: knifemaking
-tags:  knifemaking Biltsharp
-image:
-  feature: jackie-awesome.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Jackie from Biltsharp about a recent shop relocation, process and her role as half of the Biltsharp team.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

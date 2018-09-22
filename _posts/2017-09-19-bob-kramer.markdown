@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Bob Kramer"
 date:   2017-09-18 01:00:00
-last_modified_at:  2017-09-18 01:00:00
-excerpt: "Craig chats with Bob Kramer"
-categories: knifemaking
-tags:  knifemaking kramer
-image:
-  feature: bob-kramer.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with knife making legend and Master Bladesmith, Bob Kramer. Bob talks about his humble beginnings as a knifemaker, his process, inspirations and plans for the future.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

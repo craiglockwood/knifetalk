@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Geoff Feder"
 date:   2017-05-03 01:00:00
-last_modified_at:  2014-12-15 01:00:00
-excerpt: "Craig chats with Geoff Feder"
-categories: history
-tags:  disney
-image:
-  feature: geoff-feder.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Geoff from Feder Knives about his inspirations, process and the joys of making his beautiful and unique chef knives.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

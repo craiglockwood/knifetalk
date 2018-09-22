@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Jeremy Goertz"
 date:   2017-05-12 01:00:00
-last_modified_at:  2014-12-15 01:00:00
-excerpt: "Craig chats with Jeremy Goertz"
-categories: history
-tags:  disney
-image:
-  feature: jeremy-goertz.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Jeremy from Homestead Knives and the Simple Little Life Youtube channel about his experiences as a knife maker and finding a style in his making.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

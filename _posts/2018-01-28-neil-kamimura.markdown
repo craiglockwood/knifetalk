@@ -2,16 +2,8 @@
 layout: post
 title:  "A chat with Neil Kamimura"
 date:   2018-01-28 00:01:00
-last_modified_at:  2018-01-28 00:01:00
-excerpt: "Craig chats with Neil Kamimura"
-categories: knifemaking
-tags:  knifemaking fordforge Kamimura
-image:
-  feature: kamimura.jpg
-  topPosition: 0px
-bgContrast: dark
-bgGradientOpacity: lighter
-syntaxHighlighter: no
+description:   Craig chats with Forged in Fire champion Neil Kamimura about his experiences in knifemaking and his motivation for forging.
+sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 
