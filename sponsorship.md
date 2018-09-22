@@ -17,7 +17,7 @@ title: Contact Knife Talk
 </ul>
     </p>
  
-  <form action="http://formspree.io/craig@chopknives.com" method="POST">
+  <form action="https://formspree.io/craig@chopknives.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>

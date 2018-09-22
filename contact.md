@@ -10,7 +10,7 @@ title: Contact Knife Talk
     <p>We would love to answer any questions you may have on the show. We may ask for further details or even for you to record your question so it can be featured in the show.</p>
     <p>Alternatively, if you have any ideas for the show, let us know. We are all ears.</p>
   </div>
-  <form action="http://formspree.io/craig@chopknives.com" method="POST">
+  <form action="https://formspree.io/craig@chopknives.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
