@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Tomer Botner"
 date:   2017-05-22 01:00:00
 description:   Craig chats with Tomer, the product designer behind Florentine Kitchen Knives about the manufacturing and retailing of his beautiful kitchen knives.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

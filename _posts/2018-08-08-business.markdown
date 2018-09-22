@@ -3,7 +3,7 @@ layout: post
 title:  "The business of making knives"
 date:   2018-08-08 00:01:00
 description: Craig speaks with Mareko Maumasi and Geoff Feder about the business side of things. Topics include set up costs, continued development and varying business plans. 
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 
 ---
 

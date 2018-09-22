@@ -3,7 +3,7 @@ layout: post
 title:  "Tools & materials special"
 date:   2018-03-21 00:01:00
 description:   Craig chats with Bill Behnke, Quinn from Evenheat and Dan Corey about the tools they make for the knifemaking community.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

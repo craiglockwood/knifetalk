@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Alec Steele"
 date:   2017-04-26 01:00:00
 description:   Craig chats with Alec Steele about his very early introduction to blacksmithing and how he manages to run his successful online business.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

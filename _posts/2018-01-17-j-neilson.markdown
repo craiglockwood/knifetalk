@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with J Neilson"
 date:   2018-01-17 00:01:00
 description:   Craig chats with ABS Mastersmith and judge of Forged in Fire, J Neilson about his process. We also get to hear lots of tips from him as well as some behind the scenes stuff from the show.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

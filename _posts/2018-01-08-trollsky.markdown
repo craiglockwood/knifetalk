@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Trollsky"
 date:   2018-01-08 00:01:00
 description:   Craig chats with Trollsky from Trollsky Custom Knives about his career as a highly respected knifemaker, his appearance on Forged in Fire and Trollsky answers some listeners questions.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

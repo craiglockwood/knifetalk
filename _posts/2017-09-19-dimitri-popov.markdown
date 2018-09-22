@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Dmitriy Popov"
 date:   2017-09-25 01:00:00
 description:   Craig chats with Dmitriy from DP Custom Knives about his process, steel choices and what inspires him to make his beautiful kitchen knives.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

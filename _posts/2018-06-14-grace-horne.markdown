@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Grace Horne"
 date:   2018-06-06 00:01:00
 description:   Craig chats with Grace Horne about her unique and beautiful work which ranges from folding knives and scissors to corsets and lingerie. Grace talks about her influences and plans for the future. 
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

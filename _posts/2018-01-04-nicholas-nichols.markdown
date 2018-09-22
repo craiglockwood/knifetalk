@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Nicholas Nichols"
 date:   2018-01-04 00:01:00
 description:   Craig chats with Nicholas from Nichols Family Forge about his past as a professional chef and is drilled on what makes for a great chef knife.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

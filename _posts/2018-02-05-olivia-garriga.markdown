@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Olivia Garriga"
 date:   2018-02-05 00:01:00
 description:   Craig chats with Olivia from Wild Craft Knives about her beautiful rustic knives, her other creative endeavours and her future plans.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

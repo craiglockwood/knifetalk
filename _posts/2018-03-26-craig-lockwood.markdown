@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Craig Lockwood"
 date:   2018-03-26 00:01:00
 description:   Geoff chats with Craig about his journey into knife making, his plans to make Chop Knives a product company and the launch of his first product
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

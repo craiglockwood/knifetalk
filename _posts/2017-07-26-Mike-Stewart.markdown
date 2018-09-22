@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Mike Stewart"
 date:   2017-06-28 01:00:00
 description:   Craig chats with Mike from Ekim Knives about transitioning from a regular job to becoming a full-time knife maker. Mike talks about his process and the way in which he runs his craft as a business.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 

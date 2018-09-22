@@ -3,7 +3,7 @@ layout: post
 title:  "A chat with Timothy Ford"
 date:   2017-10-16 01:00:00
 description:   Craig chats with Timothy from Ford Forged about his style, process and how he caught the bug for knifemaking.
-sponsors: <a href="http://www.evenheatkilns.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a> and <a href="http://www.tormek.com">Tormek</a>
 ---
 
 
