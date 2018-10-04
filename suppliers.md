@@ -108,7 +108,7 @@ title: Supplier list
 <div class="card">
   <div class="card-body">
     <p class="supplier_name">NJ Steel Baron <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
- <p class="supplier_info">Quality blade steels. High crabon and stainless blade steels.</p>
+ <p class="supplier_info">Quality blade steels. High carbon and stainless blade steels.</p>
     <a href="http://newjerseysteelbaron.com" class="button">www.newjerseysteelbaron.com</a>
   </div>
 </div>
