@@ -65,7 +65,7 @@ title: Supplier list
 <div class="card-header">
     Recommended supplier 🔥
   </div>
-  <div class="card-body">
+  <div class="card-body featured">
     <p class="supplier_name">Evenheat <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
  <p class="supplier_info">The maker of the finest heat treat ovens available.</p>
     <a href="https://www.evenheat-kiln.com" class="button">www.evenheat-kiln.com</a>

@@ -8,8 +8,8 @@ html {
     -webkit-text-size-adjust: 100%
 }
 
-.card-header {
-    background-color: rgba(0,0,0,.08);
+.card-body.featured {
+background-color: rgba(0,0,0,.08);
 }
 
 
