@@ -18,6 +18,16 @@ title: Supplier list
 
 
 
+<div class="card UK">
+  <div class="card-body">
+    <p class="supplier_name">Barmond Steels <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
+ <p class="supplier_info">High carbon, stainless and damascus steels.</p>
+    <a href="http://www.barmondsheffield.com/online-shop/" class="button">www.barmondsheffield.com</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
 
 <div class="card UK">
   <div class="card-body">
@@ -82,6 +92,17 @@ title: Supplier list
   </div>
 </div>
 <div class="twentypix"></div>
+
+
+
+<div class="card-body">
+    <p class="supplier_name">High Grade Steel <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
+ <p class="supplier_info">UK stockists and suppliers of premium quality European high carbon and alloy steels.</p>
+    <a href="https://www.highgradesteel.co.uk" class="button">www.highgradesteel.co.uk</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
 
 
 <div class="card">
