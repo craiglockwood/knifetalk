@@ -18,6 +18,8 @@ navigation:
    url: /hosts
  - title: Sponsorship
    url: /sponsorship
+ - title: Suppliers
+   url: /suppliers
  - title: Contact
    url: /contact
 
