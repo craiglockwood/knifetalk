@@ -251,7 +251,8 @@ template {
 
 body .intro {
     font-size: 1.25em;
-    line-height: 1.7
+    line-height: 1.7;
+    padding-bottom: 30px;
 }
 
 body .supplier {
