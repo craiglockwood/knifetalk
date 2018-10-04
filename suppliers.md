@@ -11,62 +11,87 @@ title: Supplier list
 
 	<div class="twentypix"></div>
 
-	<div class="supplier">
-	<p class="supplier_name">BND Abrasives <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
-	<p class="supplier_info">Abrasives, belts, discs & sheets. 3M distributor.</p>
-	<p class="supplier_web"><a href="http://www.bndabrasives.co.uk">www.bndabrasives.co.uk</a></p>
-	</div>
-	<div class="twentypix"></div>
-
-	<div class="supplier">
-	<p class="supplier_name">Brisa <img src="/assets/img/blank.gif" class="flag flag-fi" alt="finland" /></p> 
-	<p class="supplier_info">Wide selection of knife making and crafting materials. Fast shipping worldwide.</p>
-	<p class="supplier_web"><a href="https://brisa.fi">www.brisa.fi</a></p>
-	</div>
-	<div class="twentypix"></div>
-
-	<div class="supplier">
-	<p class="supplier_name">Combat Abrasives <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
-	<p class="supplier_info">Wide selection of knife making and crafting materials. Fast shipping worldwide.</p>
-	<p class="supplier_web"><a href="https://www.combatabrasives.com">www.combatabrasives.com</a></p>
-	</div>
-	<div class="twentypix"></div>
-
-	<div class="supplier">
-	<p class="supplier_name">Evenheat <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
-	<p class="supplier_info">The maker of the finest heat treat ovens available.</p>
-	<p class="supplier_web"><a href="https://www.evenheat-kiln.com">www.evenheat-kiln.com</a></p>
-	</div>
-	<div class="twentypix"></div>
-
-	<div class="supplier">
-	<p class="supplier_name">FTFI <img src="/assets/img/blank.gif" class="flag flag-fr" alt="france" /></p> 
-	<p class="supplier_info">General metal working supplies.</p>
-	<p class="supplier_web"><a href="http://www.ftfi.fr">www.ftfi.fr</a></p>
-	</div>
-	<div class="twentypix"></div>
-
-
-	<div class="supplier">
-	<p class="supplier_name">Ground Flat Stock <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
-	<p class="supplier_info">Steels, abrasives, handle materials. Fast delivery throught Europe.</p>
-	<p class="supplier_web"><a href="https://www.groundflatstock.com">www.groundflatstock.com</a></p>
-	</div>
-	<div class="twentypix"></div>
-
-
-	<div class="supplier">
-	<p class="supplier_name">NJ Steel Baron <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
-	<p class="supplier_info">Quality blade steels. High crabon and stainless blade steels.</p>
-	<p class="supplier_web"><a href="http://newjerseysteelbaron.com">www.newjerseysteelbaron.com</a></p>
-	</div>
-	<div class="twentypix"></div>
-
-
-
- 
-
   
 
 
 </div>
+
+
+
+
+<div class="card UK">
+  <div class="card-body">
+    <p class="supplier_name">BND Abrasives <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
+ <p class="supplier_info">Abrasives, belts, discs & sheets. 3M distributor.</p>
+    <a href="http://www.bndabrasives.co.uk" class="button">www.bndabrasives.co.uk</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+<div class="card">
+  <div class="card-body">
+    <p class="supplier_name">Brisa <img src="/assets/img/blank.gif" class="flag flag-fi" alt="finland" /></p> 
+ <p class="supplier_info">Wide selection of knife making and crafting materials. Fast shipping worldwide.</p>
+    <a href="https://brisa.fi" class="button">www.brisa.fi</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+<div class="card US">
+  <div class="card-body">
+    <p class="supplier_name">Combat Abrasives <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
+ <p class="supplier_info">Wide selection of knife making and crafting materials. Fast shipping worldwide.</p>
+    <a href="https://www.combatabrasives.com" class="button">www.combatabrasives.com</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+
+
+<div class="card">
+<div class="card-header">
+    Recommended supplier 🔥
+  </div>
+  <div class="card-body">
+    <p class="supplier_name">Evenheat <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
+ <p class="supplier_info">The maker of the finest heat treat ovens available.</p>
+    <a href="https://www.evenheat-kiln.com" class="button">www.evenheat-kiln.com</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+<div class="card">
+  <div class="card-body">
+    <p class="supplier_name">FTFI <img src="/assets/img/blank.gif" class="flag flag-fr" alt="france" /></p> 
+ <p class="supplier_info">General metal working supplies.</p>
+    <a href="http://www.ftfi.fr" class="button">www.ftfi.fr</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+<div class="card">
+  
+  <div class="card-body">
+    <p class="supplier_name">Ground Flat Stock <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
+ <p class="supplier_info">Steels, abrasives, handle materials. Fast delivery throught Europe.</p>
+    <a href="https://www.evenheat-kiln.com" class="button">www.evenheat-kiln.com</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+<div class="card">
+  <div class="card-body">
+    <p class="supplier_name">NJ Steel Baron <img src="/assets/img/blank.gif" class="flag flag-us" alt="U.S" /></p> 
+ <p class="supplier_info">Quality blade steels. High crabon and stainless blade steels.</p>
+    <a href="http://newjerseysteelbaron.com" class="button">www.newjerseysteelbaron.com</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+
