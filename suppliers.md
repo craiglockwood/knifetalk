@@ -94,7 +94,7 @@ title: Supplier list
 <div class="twentypix"></div>
 
 
-
+<div class="card">
 <div class="card-body">
     <p class="supplier_name">High Grade Steel <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
  <p class="supplier_info">UK stockists and suppliers of premium quality European high carbon and alloy steels.</p>
