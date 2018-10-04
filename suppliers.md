@@ -116,3 +116,14 @@ title: Supplier list
 
 
 
+<div class="card">
+  <div class="card-body">
+    <p class="supplier_name">Tormek <img src="/assets/img/blank.gif" class="flag flag-se" alt="sweden" /></p> 
+ <p class="supplier_info">Specialist sharpening machines for repeatable edges.</p>
+    <a href="https://www.tormek.com" class="button">www.tormek.com</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+
