@@ -9,6 +9,8 @@ title: Supplier list
 	<p class="intro">Many new makers struggle to find the materials and tools required to make knives. This list has been put together to make things a little easier. So you can spend more time making, and less time shopping.</p>
 	
 
+	<div class="twentypix"></div>
+
 	<div class="supplier">
 	<p class="supplier_name">BND Abrasives <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
 	<p class="supplier_info">Abrasives, belts, discs & sheets. 3M distributor.</p>
