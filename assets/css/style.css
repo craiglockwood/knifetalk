@@ -12,6 +12,11 @@ html {
     background-color: rgba(0,0,0,.10);
 }
 
+.card-body featured {
+    background-color: rgba(0,0,0,.08);
+
+}
+
 
 .strapline {
   font-size: .8em;
