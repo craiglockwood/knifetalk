@@ -104,6 +104,17 @@ title: Supplier list
 <div class="twentypix"></div>
 
 
+<div class="card">
+<div class="card-body">
+    <p class="supplier_name">Multitool Products <img src="/assets/img/blank.gif" class="flag flag-gb" alt="U.K" /></p> 
+ <p class="supplier_info">The belt grinder multitool and distributor of abrasive belts.</p>
+    <a href="https://www.multitoolproducts.com" class="button">www.multitoolproducts.com</a>
+  </div>
+</div>
+<div class="twentypix"></div>
+
+
+
 
 <div class="card">
   <div class="card-body">
