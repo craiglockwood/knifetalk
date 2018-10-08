@@ -3,7 +3,7 @@ layout: post
 title:  "Anvils & Knife Care"
 date:   2018-10-08 00:00:00
 description: Craig, Geoff and Mareko discuss anvils, knife care, keeping things clean and how to stay motivated. #buttshucker 
-sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="https://www.soulceramics.com/knifetalk">Soul Ceamics</a>  
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="https://www.soulceramics.com/knifetalk">Soul Ceramics</a>  
 
 ---
 
