@@ -8,7 +8,7 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 
 ## Features
 
-- Minimal, Type Focused Design
+- Minimal, Type Focused Design.
 - Built with GULP + SASS + BROWSERSYNC + AUTOPREFIXER
 - SVG Social Icons
 - Responsive Nav Menu
