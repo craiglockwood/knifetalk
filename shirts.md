@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knife Talk merch
+title: Knife Talk merchendise
 ---
 
 <div class="post">
@@ -171,5 +171,5 @@ title: Knife Talk merch
     /*]]>*/
     </script>
 
- 
+
 </div>
