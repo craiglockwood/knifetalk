@@ -6,11 +6,11 @@ title: Knife Talk merchandise
 <div class="post">
   <h1 class="pageTitle">Killer threads</h1>
   
-    <p class="intro">Support your favourite knife making podcast with our easy care T-shirt. Perfect for wearing around the workshop<b>*</b>.</p>
+    <p class="intro">Support your favourite knife making podcast with our easy care T-shirt. Perfect for wearing around the workshop.</p>
 
     <p>All shirts are 100% cotton and perfect for wearing around the workshop and every day use. Available in tiny weeny sizes to massive giant sizes. Also features the web address on the right sleeve 💪🏼.</p>
 
-    <p><b>*</b>Match with a bow tie for use at fancy restaurants.</p>
+    <p><b>*</b> Match with a bow tie for use at fancy restaurants.</p>
 
  
  
@@ -87,7 +87,7 @@ title: Knife Talk merchandise
         "font-size": "26px"
       },
       "price": {
-        "font-size": "18px"
+        "font-size": "26px"
       },
       "compareAt": {
         "font-size": "15px"
