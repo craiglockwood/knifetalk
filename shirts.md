@@ -59,7 +59,7 @@ title: Knife Talk merchendise
       "img": false,
       "imgWithCarousel": true,
       "variantTitle": false,
-      "description": true,
+      "description": false,
       "buttonWithQuantity": false,
       "quantity": false
     },
