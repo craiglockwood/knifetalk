@@ -8,7 +8,7 @@ sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/6bf0daaf?color=f5f5f5' width='100%'></iframe>
 
-Craig and Mareko laeve Geoff to interview Jared from Boothhill Blades to talk about knifemaking, rebranding, and a whole lot more.
+Craig and Mareko leave Geoff to interview Jared from Boothhill Blades to talk about knifemaking, rebranding, and a whole lot more.
 
  
 
