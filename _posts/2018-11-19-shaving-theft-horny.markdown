@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shaving, Instagram theft & get horny in the thorns"
+title:  "Shaving, Instagram theft & getting horny in the thorns"
 date:   2018-11-19 01:00:00
 description: Mareko, Craig & Geoff discuss blacksmithing for knifemakers, edge testing, learning resources and Instagram theft.
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
