@@ -6,7 +6,7 @@ description: Mareko, Craig & Geoff discuss blacksmithing for knifemakers, edge t
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 ---
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/ce3145ce?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/52fd0b5c?color=f5f5f5' width='100%'></iframe>
 
 Mareko, Craig & Geoff discuss blacksmithing for knifemakers, edge testing, learning resources and Instagram theft. There are also the usual slots such as 'Hey man, can I ask you a question', and 'Beefs!'.
 
@@ -22,7 +22,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>, get yo
  
 
 
-<blockquote class="largeQuote">“I make knives that I know how to use...” - Mareko Maumasi </blockquote>
+<blockquote class="largeQuote">“Shaving your pubes with your knife is disgusting...” - Geoff Feder </blockquote>
 
 
 
