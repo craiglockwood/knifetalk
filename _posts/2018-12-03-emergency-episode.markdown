@@ -6,7 +6,7 @@ description: Craig, Mareko & Geoff discuss shaping handles, Geoff gives a tender
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 ---
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/95e66c0b?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/15123743?color=f5f5f5' width='100%'></iframe>
 
 Craig, Mareko & Geoff discuss shaping handles, desert island knives, and Geoff gives a tender goodbye to Karl and beefs. 
 
