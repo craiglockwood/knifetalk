@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resins, inclusion and sharpening"
-date:   2018-12-03 01:00:00
+date:   2018-12-10 01:00:00
 description: The guys talk about casting resins, customer service techniques and sharpening. 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 ---
