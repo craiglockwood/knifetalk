@@ -6,9 +6,9 @@ description: The guys talk about casting resins, customer service techniques and
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 ---
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/15123743?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/5a468f61?color=f5f5f5' width='100%'></iframe>
 
-he guys talk about casting resins, customer service techniques and sharpening. We also hear regular spots such as Beefs and 'hey man, can I ask you a question?'
+The guys talk about casting resins, customer service techniques and sharpening. We also hear regular spots such as Beefs and 'hey man, can I ask you a question?'
 
  
 
