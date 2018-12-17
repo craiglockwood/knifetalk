@@ -6,7 +6,7 @@ description: The guys talk about gift ideas for knife makers, paper micarta and 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 ---
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/5a468f61?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/9389f29c?color=f5f5f5' width='100%'></iframe>
 
 the guys talk about gift ideas for knife makers, paper micarta, giving constructive feedback and lots of tips on grinding the perfect ’S’ Grind.
 
