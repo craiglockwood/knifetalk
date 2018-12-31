@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "The All Beef Review 🥩"
+title:  "Regret & Optimism"
 date:   2018-12-31 01:00:00
 description: The guys look back at 2018, sharing regrets and favourite moments.
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>
 ---
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/a435663c?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/d71da185?color=f5f5f5' width='100%'></iframe>
 
 The guys look back at 2018, sharing regrets and favourite moments. They also talk about their business plans for 2019.
 
@@ -21,7 +21,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>, get yo
  
 
 
-<blockquote class="largeQuote">“Fackin' ell Mary Bobbins” - Craig Lockwood </blockquote>
+<blockquote class="largeQuote">“This could be Shovel Talk, I don't care” - Geoff Feder </blockquote>
 
 
 
