@@ -6,14 +6,14 @@ description: The guys read out the mistakes made in the shop by listeners and an
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.amktactical.com">AMKoncepts</a>
 ---
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/d71da185?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/cf4fe59d?color=f5f5f5' width='100%'></iframe>
 
 The guys read out the mistakes made in the shop by listeners and answer listener questions, air their beefs and highlight a few makers within the community.  
 
-Robs wild Wood on Instagram: <a href="https://www.instagram.com/robswildwood"> @robswildwood</a>  
+Robs Wild Wood on Instagram: <a href="https://www.instagram.com/robswildwood"> @robswildwood</a>  
 
 New Jersey Steel Baron on Instagram: <a href="https://www.instagram.com/nj_steelbaron"> @nj_steelbaron</a>  
-  
+
 Workerman on Instagram: <a href="https://www.instagram.com/wrkmn"> @wrkmn</a>
 
    
