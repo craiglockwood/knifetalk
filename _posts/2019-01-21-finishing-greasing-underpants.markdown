@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finishing, Greasing & See-through Underpants"
-date:   2019-01-21 01:00:00
+date:   2019-01-21 00:00:01
 description: The guys talk pre-shaping handles, finishing handles and that forged in fire knife
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.amktactical.com">AMKoncepts</a>
 ---
