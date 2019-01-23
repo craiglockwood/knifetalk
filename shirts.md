@@ -59,7 +59,7 @@ title: Knife Talk merchandise
       "img": false,
       "imgWithCarousel": true,
       "variantTitle": false,
-      "description": true,
+      "description": false,
       "buttonWithQuantity": false,
       "quantity": false
     },
@@ -226,7 +226,7 @@ title: Knife Talk merchandise
       "img": false,
       "imgWithCarousel": true,
       "variantTitle": false,
-      "description": true,
+      "description": false,
       "buttonWithQuantity": false,
       "quantity": false
     },
