@@ -14,7 +14,7 @@ title: Knife Talk merchandise
 
  
  
- <div id='product-component-0f4a34ccf54'></div>
+<div id='product-component-32e91da4336'></div>
     <script type="text/javascript">
     /*<![CDATA[*/
 
@@ -47,18 +47,19 @@ title: Knife Talk merchandise
         ShopifyBuy.UI.onReady(client).then(function (ui) {
           ui.createComponent('product', {
             id: [1545237889076],
-            node: document.getElementById('product-component-0f4a34ccf54'),
+            node: document.getElementById('product-component-32e91da4336'),
             moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
             options: {
   "product": {
     "buttonDestination": "checkout",
+    "layout": "horizontal",
     "variantId": "all",
-    "width": "580px",
+    "width": "100%",
     "contents": {
       "img": false,
       "imgWithCarousel": true,
       "variantTitle": false,
-      "description": false,
+      "description": true,
       "buttonWithQuantity": false,
       "quantity": false
     },
@@ -71,9 +72,6 @@ title: Knife Talk merchandise
           "max-width": "100%",
           "margin-left": "0",
           "margin-bottom": "50px"
-        },
-        "carousel-button": {
-          "display": "none"
         }
       },
       "button": {
@@ -85,8 +83,14 @@ title: Knife Talk merchandise
           "background-color": "#dead22"
         }
       },
+      "title": {
+        "font-size": "26px"
+      },
+      "price": {
+        "font-size": "18px"
+      },
       "compareAt": {
-        "font-size": "12px"
+        "font-size": "15px"
       }
     }
   },
@@ -177,7 +181,7 @@ title: Knife Talk merchandise
 
 
 
-<div id='product-component-592dbe5de90'></div>
+<div id='product-component-c4b2bffc043'></div>
     <script type="text/javascript">
     /*<![CDATA[*/
 
@@ -210,18 +214,19 @@ title: Knife Talk merchandise
         ShopifyBuy.UI.onReady(client).then(function (ui) {
           ui.createComponent('product', {
             id: [1459642564660],
-            node: document.getElementById('product-component-592dbe5de90'),
+            node: document.getElementById('product-component-c4b2bffc043'),
             moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
             options: {
   "product": {
     "buttonDestination": "checkout",
+    "layout": "horizontal",
     "variantId": "all",
-    "width": "580px",
+    "width": "100%",
     "contents": {
       "img": false,
       "imgWithCarousel": true,
       "variantTitle": false,
-      "description": false,
+      "description": true,
       "buttonWithQuantity": false,
       "quantity": false
     },
@@ -234,9 +239,6 @@ title: Knife Talk merchandise
           "max-width": "100%",
           "margin-left": "0",
           "margin-bottom": "50px"
-        },
-        "carousel-button": {
-          "display": "none"
         }
       },
       "button": {
@@ -248,8 +250,14 @@ title: Knife Talk merchandise
           "background-color": "#dead22"
         }
       },
+      "title": {
+        "font-size": "26px"
+      },
+      "price": {
+        "font-size": "18px"
+      },
       "compareAt": {
-        "font-size": "12px"
+        "font-size": "15px"
       }
     }
   },
