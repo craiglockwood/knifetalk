@@ -14,7 +14,7 @@ title: Knife Talk merchandise
 
  
  
-  <div id='product-component-6bd1bf7f85e'></div>
+  <div id='product-component-c701638a67a'></div>
     <script type="text/javascript">
     /*<![CDATA[*/
 
@@ -47,13 +47,13 @@ title: Knife Talk merchandise
         ShopifyBuy.UI.onReady(client).then(function (ui) {
           ui.createComponent('product', {
             id: [1545237889076],
-            node: document.getElementById('product-component-6bd1bf7f85e'),
+            node: document.getElementById('product-component-c701638a67a'),
             moneyFormat: '%C2%A3%7B%7Bamount%7D%7D',
             options: {
   "product": {
     "buttonDestination": "checkout",
     "variantId": "all",
-    "width": "240px",
+    "width": "380px",
     "contents": {
       "img": false,
       "imgWithCarousel": true,
