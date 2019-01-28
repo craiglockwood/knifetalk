@@ -16,7 +16,7 @@ Hatchet and Bear on Instagram: <a href="https://www.instagram.com/hatchetandbear
 
 Sunset Forge on Instagram: <a href="https://www.instagram.com/sunsetforgenj"> @sunsetforgenj</a>  
 
-Hayley Desrosiers on Instagram: <a href="https://www.instagram.com/hdesrosiers"> @hdesrosiers</a>   
+Hayley Desrosiers on Instagram: <a href="https://www.instagram.com/hdesrosiersknives"> @hdesrosiersknives</a>   
 
    
   
