@@ -13,7 +13,7 @@ The guys are rudely interrupted by a special guest for the final of the Knife Ta
  
 Proper Knife on Instagram: <a href="https://www.instagram.com/properknife"> @properknife</a>  
 
-Mt Phillips Metalworks on Instagram: <a href="https://www.instagram.com/@mt_phillips_metal_works"> @mt_phillips_metal_works</a>  
+Mt Phillip Metalworks on Instagram: <a href="https://www.instagram.com/mt_phillip_metal_works"> @mt_phillips_metal_works</a>  
 
 Haburn Knives on Instagram: <a href="https://www.instagram.com/haburnknives"> @haburnknives</a>  
 
