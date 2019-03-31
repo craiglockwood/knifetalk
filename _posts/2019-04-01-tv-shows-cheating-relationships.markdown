@@ -31,7 +31,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>, get yo
  
 
 
-<blockquote class="largeQuote">“” - Craig Lockwood</blockquote>
+<blockquote class="largeQuote">“I always wanted to do a folding kitchen knife” - Craig Lockwood</blockquote>
 
 
 
