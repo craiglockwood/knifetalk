@@ -3,7 +3,7 @@ layout: post
 title:  "Canadians, Cryo & Contracts"
 date:   2019-04-22 00:00:02
 description: Craig, Geoff & Mareko answer listener questions, and have a special guest to officate another legendary Knife Talk Quiz. 
-sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a> ,<a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a> and <a href="http://www.claryxmetalworks.com">Claryx Metalworks</a>.
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a> and <a href="http://www.claryxmetalworks.com">Claryx Metalworks</a>.
 ---
 
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/13f8020f?color=f5f5f5' width='100%'></iframe>
