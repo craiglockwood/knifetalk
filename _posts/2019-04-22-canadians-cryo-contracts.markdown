@@ -11,7 +11,7 @@ sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://w
 Craig, Geoff & Mareko answer listener questions, and have a special guest to officate another legendary Knife Talk Quiz. All of this as well as highlighting some members of the community in the community showcase.       
 
  
-Jeremt from Simple Little Life on Instagram: <a href="https://www.instagram.com/simplelittlelife"> @simplelittlelife</a>  
+Jeremy from Simple Little Life on Instagram: <a href="https://www.instagram.com/simplelittlelife"> @simplelittlelife</a>  
 
 Racerracks on Instagram: <a href="https://www.instagram.com/racerracks"> @racerracks </a>  
 
