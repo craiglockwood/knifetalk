@@ -6,7 +6,7 @@ description: Episode 65 features the return of Beefs, a brand new host challenge
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a> and <a href="http://www.claryxmetalworks.com">Claryx Metalworks</a>.
 ---
 
-<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/75966c35?color=f5f5f5' width='100%'></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/62bcb0ba?color=f5f5f5' width='100%'></iframe>
 
 Episode 65 features the return of Beefs, a brand new host challenge as well as the usual listener questions.        
 
@@ -35,7 +35,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>
  
 
 
-<blockquote class="largeQuote">“An auction is a great way to test the market,,,” - Mareko Maumasi</blockquote>
+<blockquote class="largeQuote">“An auction is a great way to test the market...” - Mareko Maumasi</blockquote>
 
 
 
