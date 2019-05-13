@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heat Treating, Auto Hamons & Life of Brian"
-date:   2019-04-29 00:00:02
+date:   2019-05-06 00:00:02
 description: Professor Maumasi takes a deep dive into heat treating, the return of the Beef and a timed community showcase round.  
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a> and <a href="http://www.claryxmetalworks.com">Claryx Metalworks</a>.
 ---
