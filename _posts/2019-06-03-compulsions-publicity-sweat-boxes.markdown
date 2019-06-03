@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Compulsions, Publicity & Sweat Boxes"
-date:   2019-0r-03 00:00:02
+date:   2019-06-03 00:00:02
 description: The guys set personal goals for the next 6 months, talk Blade, compulsion & creative grooves. There are also some interesting beefs, listener questions and community showcases.  
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a> and <a href="http://www.claryxmetalworks.com">Claryx Metalworks</a>.
 ---
