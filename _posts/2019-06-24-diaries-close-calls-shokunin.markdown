@@ -37,7 +37,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>
  
 
 
-<blockquote class="largeQuote">“Every day you should strive to get better and enjoy the journey…” - Geoff Feder</blockquote>
+<blockquote class="largeQuote">“If you take orders for knives, you are an artist…” - Neil Kamimura</blockquote>
 
 
 
