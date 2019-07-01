@@ -2,7 +2,7 @@
 layout: post
 title:  "Diaries, Close Calls & Shokunin"
 date:   2019-06-24 00:00:02
-description: Craig is still missing in action so Geoff & Mareko are joined by the might Neil Kamimura.  
+description: Craig is still missing in action so Geoff & Mareko are joined by the mighty Neil Kamimura.  
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a> and <a href="http://www.claryxmetalworks.com">Claryx Metalworks</a>.
 ---
 
