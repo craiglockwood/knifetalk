@@ -38,7 +38,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>
  
 
 
-<blockquote class="largeQuote">“Keep your wood flat and lubricated…” - Geoff Feder</blockquote>
+<blockquote class="largeQuote">“At home, we don't talk about Dog House Forge…” - Jonathan Porter</blockquote>
 
 
 
