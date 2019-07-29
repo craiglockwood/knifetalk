@@ -3,7 +3,7 @@ layout: post
 title:  "Social, Stolen Wood & Solitude"
 date:   2019-07-29 00:00:02
 description: As well as the usual listener questions, the guys talk about the loneliness of working alone, traffic etiquette and big steaks.  
-sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, <a href-"http://www.texasfarriersupply.com">Texas Farrier Supply</a> and <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a>.
+sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a> and <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a>.
 ---
 
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/52c0c8d2-2341-4c48-83d8-bf41c17432e4?dark=false"></iframe>
