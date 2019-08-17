@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Corbys, Compounds & Cartoon Characters"
-date:   2019-08-12 00:00:02
+date:   2019-08-12 00:00:01
 description: A poorly Craig bravely soldiers through the episode where the guys talk fasteners, super powers and share some techniques and some beefs. 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a> and <a href="https://newjerseysteelbaron.com">New Jersey Steel Baron</a>.
 ---
