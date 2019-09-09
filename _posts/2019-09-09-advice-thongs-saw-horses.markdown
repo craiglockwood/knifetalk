@@ -2,7 +2,7 @@
 layout: post
 title:  "Advice, Thongs & Saw Horses"
 date:   2019-09-09 00:00:01
-description: The guys talk about personal improvement, working with mammoth tooth, price points and talk a little too intimately about their caffeine intake. 
+description: The guys return after a summer break with lots of fun stories in a show packed full of tips. . 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, and <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a>.
 ---
                 
