@@ -2,7 +2,7 @@
 layout: post
 title:  "EDC - Can You Get By With A Cheap Hammer?"
 date:   2019-09-17 00:00:01
-description: @calebgant asks - Hey man can I ask a question? I know you guys say that hammers from people like sunsetnj are awesome but as a young broke maker is it ok to go for a cheaper option? 
+description: Caleb Gant asks - I know you guys say that hammers from people like sunsetnj are awesome but as a young broke maker is it ok to go for a cheaper option. 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, and <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a>.
 ---
                 
