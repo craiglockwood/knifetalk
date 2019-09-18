@@ -6,7 +6,7 @@ description: What are some of your favorite small tools around the shop?.
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, and <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a>.
 ---
                 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/4544e897-b204-43ea-bdc9-2585dc11d322?dark=false"></iframe>
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/e5c40f89-15d4-41db-92d0-d45916b8c8ff?dark=false"></iframe>
 
 Miller Knife Works asks: What are some of your favorite small tools around the shop? As we all know a 2x72 is the workhorse and a heat treat oven is amazing. But what are some of the tools that dont get recognized as often but make a difference when making knives?.         
 
