@@ -14,7 +14,7 @@ In this EDC episode, Texas Forged Blades asks how to deal with an awkward custom
   
 
 
-Texas Forged Blades on Instagram - <a href="https://www.instagram.com/texasforgedblades">@texasforfgedblades1</a>
+Texas Forged Blades on Instagram - <a href="https://www.instagram.com/texasforgedblades">@texasforgedblades</a>
 
 
 
