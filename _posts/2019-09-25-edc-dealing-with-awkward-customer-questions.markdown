@@ -2,7 +2,7 @@
 layout: post
 title:  "EDC - Dealing With Awkward Customer Questions"
 date:   2019-09-25 00:00:01
-description: Rob Pearce asks for advice on shopping for a used anvil.. 
+description: In this EDC episode, Texas Forged Blades asks how to deal with an awkward customer question. 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, and <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a>.
 ---
                 
