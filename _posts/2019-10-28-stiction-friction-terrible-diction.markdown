@@ -47,7 +47,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>
  
 
 
-<blockquote class="largeQuote">“Stiction - it's defineteky a word..." - Mareko Maumasi</blockquote>
+<blockquote class="largeQuote">“Stiction - it's definetely a word..." - Mareko Maumasi</blockquote>
 
 
 
