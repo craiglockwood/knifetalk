@@ -887,6 +887,15 @@ dd {
     text-align: center
 }
 
+
+.notice-title {
+    margin: 2rem auto 1em;
+    text-align: center;
+    font-style: italic;
+    color: #5e5e5e
+    
+}
+
 .notice {
     margin: 2rem auto 1em;
     text-align: center;
