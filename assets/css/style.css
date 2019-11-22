@@ -1203,6 +1203,7 @@ dd {
     }
     #home .pageTitle,
     #home .pagination,
+    #home .notice,
     #home .posts {
         width: 75%;
         float: none;
