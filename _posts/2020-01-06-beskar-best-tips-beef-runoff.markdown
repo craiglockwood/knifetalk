@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beskar, Best Tips & Beef Runoff"
-date:   2019-01-06 00:00:01
+date:   2020-01-06 00:00:01
 description: In this first episode of 2020 the guys answer listener questions, reveal what they got up to over the holiday season and highlight some makers within the community. 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>, and <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a>.
 ---
