@@ -12,7 +12,8 @@ In this first episode of 2020 the guys answer listener questions, reveal what th
   
 
 Will Ferraby on Instagram: <a href="https://instagram.com/willferraby">@willferraby</a>  
-Ellard Blacksmithing on Instagram: <a href="https://instagram.com/ellardblacksmithing">@ellardblacksmithing</a>
+Ellard Blacksmithing on Instagram: <a href="https://instagram.com/ellardblacksmithing">@ellardblacksmithing</a>  
+Eliane LeBlanc on Instagram: <a href="https://instagram.com/elianeleblanc">@elianeleblanc</a>
 
 
 
@@ -53,7 +54,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>
  
 
 
-<blockquote class="largeQuote">“I'm not syaing shit..." - Geoff Feder</blockquote>
+<blockquote class="largeQuote">“I'm not saying shit..." - Geoff Feder</blockquote>
 
 
 
