@@ -12,7 +12,7 @@ Craig, Geoff & Mareko share listener tips, reach out to another podcast and have
 
 The template for the buildalong can be found at <a href="https://knifeprint.com/load-project/22403"> Knifeprint.com</a> - this requires creating a free acoount.  
 
-More information aand a tutorial coming later today on YouTube - check back later for a link.  
+YouTube tutirial on using Knifeprint for our builsalong knife: <a href="https://www.youtube.com/watch?v=6oqybxx3VpY&feature=youtu.be">https://www.youtube.com/watch?v=6oqybxx3VpY&feature=youtu.be</a>    
   
 
 Jared Jasinski on Instagram: <a href="https://instagram.com/jaredsj">@jaredsj</a>  
