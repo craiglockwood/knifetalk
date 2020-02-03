@@ -61,7 +61,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>
  
 
 
-<blockquote class="largeQuote">“I like to play a little game when on a plane..." - Mareko Maumasi</blockquote>
+<blockquote class="largeQuote">“We didn't solve shit..." - Geoff Feder</blockquote>
 
 
 
