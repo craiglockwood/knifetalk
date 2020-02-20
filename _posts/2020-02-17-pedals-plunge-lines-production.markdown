@@ -17,8 +17,8 @@ YouTube playlist for our buildalong knife: <a href="https://www.youtube.com/play
 
 Nova Woodworking on Instagram: <a href="https://instagram.com/novawoodworking">@novawoodworking</a>  
 Stoklasa Knives on Instagram: <a href="https://instagram.com/stoklasa.knives">@stoklasa.knives</a>  
-Silverthorne Knife on Instagram: <a href="https://instagram.com/silverthorneknife ">@silverthorneknife</a>  
-Oliver Goldschmidt on Instagram: <a href="https://instagram.com/oliver_goldschimdtknives ">@oliver_goldschimdtknives</a> 
+Silverthorn Knife on Instagram: <a href="https://instagram.com/silverthornknife">@silverthornknife</a>  
+Oliver Goldschmidt on Instagram: <a href="https://instagram.com/oliver_goldschmidtknives ">@oliver_goldschimdtknives</a> 
 
 
 
