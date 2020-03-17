@@ -59,7 +59,7 @@ Link to forum: <a href="http://forum.knifetalk.net">Knife Talk forum</a>
  
 
 
-<blockquote class="largeQuote">“We need anoth Ben Jammin' Cocker..." - Geoff Feder</blockquote>
+<blockquote class="largeQuote">“We need another Ben Jammin' Cocker..." - Geoff Feder</blockquote>
 
 
 
