@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Another Singletrack with Feder"
-date:   2020-04-03 00:00:01
+title:  "Mareko's Singletrack with Will Manning"
+date:   2020-04-06 00:00:01
 description: Mareko speaks with the amazing Will Manning from Heartwood Forge. The guys share some great tips over this mammoth 2 1/2 episode. 
 sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://www.combatabrasives.com">Combat Abrasives</a>, <a href="https://www.indasa-abrasives.com">IndasaUSA</a>,  <a href="http://www.texasfarriersupply.com">Texas Farrier Supply</a> and <a href="https://www.brodbeckironworks.com">Brodbeck Ironworks</a>.
 ---
@@ -10,6 +10,9 @@ sponsors: <a href="http://www.evenheat-kiln.com">Evenheat</a>, <a href="http://w
 
 Mareko speaks with the amazing Will Manning from Heartwood Forge. The guys share some great tips over this mammoth 2 1/2 episode.
 
+
+
+Will Manning on Instagram: <a href="https://instagram.com/heartwoodforge">@heartwoodforge</a>  
 
 
 
