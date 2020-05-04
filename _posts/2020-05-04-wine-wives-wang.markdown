@@ -34,7 +34,7 @@ Craig, Mareko & Geoff answer listener questions, talk about what they have been 
 
             
 Ronald Knives on Instagram: <a href="https://www.instagram.com/ronaldknives/">@ronaldknives</a>  
-Joe Vachon on Instagram: <a href="https://www.instagram.com/joetheblacksmith13/">@joetheblacksmith13</a> 
+Joe Vachon on Instagram: <a href="https://www.instagram.com/joetheblacksmith13/">@joetheblacksmith13</a>  
 Matt Campion on Instagram: <a href="https://www.instagram.com/matt_campion_/">@matt_campion_</a> 
  
 
