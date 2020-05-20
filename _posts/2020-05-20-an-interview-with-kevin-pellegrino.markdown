@@ -32,7 +32,7 @@ Mareko chats with Kevin Pellegrino (Kasumi Kev) about knives and goes deep into 
 
 
 
-Kevin Peelegrino on Instagram: <a href="https://www.instagram.com/kasumikev/">@kasumikev</a>    
+Kevin Pellegrino on Instagram: <a href="https://www.instagram.com/kasumikev/">@kasumikev</a>    
 
             
 
